@@ -1,0 +1,34 @@
+PWD
+Print the name of the working directory. pwd prints the full pathname of the current working directory.
+Vi
+To start using vi, at the Unix prompt type vi followed by a file name. If you wish to edit an existing file, type in its name; if you are creating a new file, type in the name you wish to give to the new file.
+
+Touch
+The touch command updates the access and modification times of each FILE to the current system time.
+Syntax:  touch [option]…FILE…
+MKDIR
+The mkdir command creates a single directories or multiple directories.
+RM
+The rm command removes (deletes) files or directories.
+ECHO
+echo displays a line of text.
+Ls
+The ls command lists all files in the directory that match the name. If name is left blank, it will list all of the files in the directory.
+Cat
+The cat command reads one or more files and prints their contents to standard output. Files are read and output in the order they appear in the command arguments.
+Who
+Displays who is logged on to the system.
+Cd
+The cd command, which stands for "change directory", changes the shell's current working directory.
+
+Date
+The date command is used to print out, or change the value of, the system's time and date information.
+Cal
+Display a conveniently-formatted calendar from the command line.
+Mv
+The mv command is used to move or rename files.
+Rm
+The rm command removes (deletes) files or directories.
+Which
+which returns the pathnames of the files (or links) which would be executed in the current environment, had the filename (or filenames) been given as a command (or commands) in a strictly POSIX-conformant shell. It does this by searching the paths in the PATH environment variable for executable files matching the names of the arguments.
+
